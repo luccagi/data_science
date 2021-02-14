@@ -1,2 +1,3 @@
-# data_science
-All my projects in Data Science
+# Data Science Repository
+
+All my projects in Data Science that I work.
